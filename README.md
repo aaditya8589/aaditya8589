@@ -5,7 +5,7 @@ import random
 import string
 
 def generate_password(length=12):
-    # Define the characters to use for password generation
+
     characters = string.ascii_letters + string.digits
     
     # Randomly choose characters for the password
@@ -13,7 +13,7 @@ def generate_password(length=12):
     
     return password
 
-# User input for password length (optional)
+# User input for password length 
 password_length = int(input("Enter password length (default 12): ") or 12)
 
 # Generate and display the password
