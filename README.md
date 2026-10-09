@@ -122,7 +122,7 @@ Tech: JavaScript
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaditya8589&theme=tokyo-night&hide_border=true&area=true" />
+   <img src="https://ghchart.rshah.org/39d353/aaditya8589" alt="Contribution chart" />
 </p>
 
 ## 🐍 Contribution Snake
