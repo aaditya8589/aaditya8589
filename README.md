@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=aaditya8589&color=58a6ff&style=flat-square&label=Profile+Views" />
   <a href="https://www.linkedin.com/in/aaditya-agarwal-b42ab6323"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:daadityaagarwal8589@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/https://leetcode.com/u/aaditya_8589"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
+  <a href="https://leetcode.com/u/aaditya_8589"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
 </p>
 
 ---
@@ -26,7 +26,7 @@ I'm a **Computer Science student** who loves building real-world applications, f
 - 🧩 Data Structures & Algorithms
 - 🛠️ Building tools developers actually use
 
-🎓 **Btech-CSE(AIML)** @ **srm University of Science and Technology**
+🎓 **B.Tech CSE (AI & ML)** @ **SRM Institute of Science and Technology**
 
 ---
 
@@ -139,7 +139,7 @@ Tech: JavaScript
 ## 💻 LeetCode
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR-LEETCODE?theme=dark&font=Fira%20Code&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/aaditya_8589?theme=dark&font=Fira%20Code&ext=heatmap" />
 </p>
 
 ---
@@ -157,9 +157,9 @@ Tech: JavaScript
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/YOUR-LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/aaditya-agarwal-b42ab6323"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/aaditya_8589"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="mailto:daadityaagarwal8589@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/aaditya8589"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
