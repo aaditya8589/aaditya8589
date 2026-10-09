@@ -75,7 +75,7 @@ I'm a **Computer Science student** who loves building real-world applications, f
 _One or two lines on what CodeSync does and who it's for._
 
 **Features**
-- _Feature 1_
+-User authentication
 - _Feature 2_
 - _Feature 3_
 
