@@ -75,16 +75,16 @@ I'm a **Computer Science student** who loves building real-world applications, f
 _One or two lines on what CodeSync does and who it's for._
 
 **Features**
--_User authentication_
--_Collaborative coding rooms_
--_Real-time code synchronization_
--_Multi-user presence_
--_Version history_
--_Code execution_
--_DSA collaborative arena_
--_Git integration_
--_Performance and concurrency testing_
-- _Feature 3_
+
+- 🔐 User authentication
+- 👥 Collaborative coding rooms
+- ⚡ Real-time code synchronization
+- 🟢 Multi-user presence
+- 🕓 Version history
+- ▶️ Code execution
+- 🧩 DSA collaborative arena
+- 🔗 Git integration
+- 📈 Performance and concurrency testing
 
 ```
 Tech: _List the stack here_
