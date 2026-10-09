@@ -126,12 +126,6 @@ Tech: JavaScript
   <img src="https://streak-stats.demolab.com?user=aaditya8589&theme=tokyonight&hide_border=true" />
 </p>
 
-## 📈 Contribution Graph
-
-<p align="center">
-   <img src="https://ghchart.rshah.org/39d353/aaditya8589" alt="Contribution chart" />
-</p>
-
 ## 🐍 Contribution Snake
 
 <p align="center">
