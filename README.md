@@ -72,7 +72,7 @@ I'm a **Computer Science student** who loves building real-world applications, f
 ## 💼 What I Build 👇
 
 ### 🔄 [CodeSync](https://github.com/aaditya8589/CodeSync)
-_One or two lines on what CodeSync does and who it's for._
+_A real-time collaborative code editor where developers can code together, run code, and practice DSA in shared rooms._
 
 **Features**
 
@@ -87,7 +87,7 @@ _One or two lines on what CodeSync does and who it's for._
 - 📈 Performance and concurrency testing
 
 ```
-Tech: _List the stack here_
+Tech: React • TypeScript • Spring Boot • WebSockets • PostgreSQL • Redis • Docker
 ```
 
 ### 🏦 [Moneymesh – Online Banking System](https://github.com/aaditya8589/Online-Banking-System-Moneymesh-)
