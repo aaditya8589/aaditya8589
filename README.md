@@ -10,8 +10,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aaditya8589&color=58a6ff&style=flat-square&label=Profile+Views" />
-  <a href="[https://aaditya-agarwal.vercel.app](https://portfolio-woad-delta-v0d2cy64c6.vercel.app/)"><img src="https://img.shields.io/badge/Portfolio-7C5CFF?style=flat-square&logo=vercel&logoColor=white" /></a>
-  <a href="[https://aaditya-agarwal.vercel.app](https://portfolio-woad-delta-v0d2cy64c6.vercel.app/)"><img src="https://img.shields.io/badge/Portfolio-7C5CFF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://portfolio-woad-delta-v0d2cy64c6.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7C5CFF?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://portfolio-woad-delta-v0d2cy64c6.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7C5CFF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/aaditya-agarwal-b42ab6323"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:daadityaagarwal8589@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://leetcode.com/u/aaditya_8589"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
