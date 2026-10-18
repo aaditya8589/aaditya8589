@@ -91,13 +91,6 @@ _A real-time collaborative code editor where developers can code together, run c
 Tech: React • TypeScript • Spring Boot • WebSockets • PostgreSQL • Redis • Docker
 ```
 
-### 🏦 [Moneymesh – Online Banking System](https://github.com/aaditya8589/Online-Banking-System-Moneymesh-)
-A banking application with account management and transactions.
-
-```
-Tech: Java
-```
-
 ### 🏨 [Book My Stay](https://github.com/aaditya8589/Book-My-Stay-App)
 A hotel booking application to browse stays and manage bookings.
 
